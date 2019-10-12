@@ -87,10 +87,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdclient.so:system/lib/libwfdclient.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdcodecv4l2.so:system/lib/libwfdcodecv4l2.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdcommonutils.so:system/lib/libwfdcommonutils.so \
+    vendor/xiaomi/msm8937-common/proprietary/lib/libwfdcommonutils.so:system/lib/libwfdcommonutils.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdconfigutils.so:system/lib/libwfdconfigutils.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdmminterface.so:system/lib/libwfdmminterface.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdmmsink.so:system/lib/libwfdmmsink.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdmmsrc.so:system/lib/libwfdmmsrc.so \
+    vendor/xiaomi/msm8937-common/proprietary/lib/libwfdnative.so:system/lib/libwfdnative.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdnative.so:system/lib/libwfdnative.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdrtsp.so:system/lib/libwfdrtsp.so \
     vendor/xiaomi/msm8937-common/proprietary/lib/libwfdservice.so:system/lib/libwfdservice.so \
